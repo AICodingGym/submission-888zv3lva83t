@@ -38,6 +38,7 @@ env/
 *.onnx
 *.pb
 *.bin
+submission-low-alpha.csv
 *.safetensors
 wandb/
 mlruns/
